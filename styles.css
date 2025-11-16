@@ -11,7 +11,7 @@ body {
 
 .container {
     text-align: center;     /* Center text and content inside the container */
-    max-width: 600px;
+    width: 400px;
     background: #ffffff;
     padding: 20px;
     border-radius: 10px;
