@@ -20,9 +20,7 @@ body {
     background: rgba(255, 255, 255, 0.93);
     backdrop-filter: blur(6px);
     animation: fadeIn 0.6s ease-in-out;
-    width:500px;
-    height: 500px;
-    align:center;
+ 
 }
 
 h1 {
