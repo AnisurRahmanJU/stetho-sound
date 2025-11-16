@@ -17,22 +17,27 @@ body {
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    font-family: 'Hind Siliguri';
 }
 
 h1 {
     color: #343a40;
     font-size: 2.5rem;
     margin-bottom: 20px;
+    font-family: 'Hind Siliguri';
+    
 }
 
 .stethoscope-image {
     max-width: 200px;
     height: auto;
     margin-bottom: 20px;
+    font-family: 'Hind Siliguri';
 }
 
 .dropdown-container {
     margin-bottom: 20px;
+     font-family: 'Hind Siliguri';
 }
 
 #diseaseButton {
@@ -41,4 +46,5 @@ h1 {
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
+    font-family: 'Hind Siliguri';
 }
