@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Bangla stethoscope sounds mapped to Bangla disease names
     const soundDiseaseMap = {
-        "স্বাভাবিক শ্বাসের শব্দ": "কোন রোগ নেই",
+        "স্বাভাবিক শ্বাসের শব্দ": "এ জাতীয় কোন রোগ নেই",
         "চিওচিও শব্দ": "হার্টের ছিদ্র",
         "শনশন শব্দ": "অ্যাজমা বা ব্রঙ্কাইটিস",
         "বিলম্বিত হার্ট স্পন্দন": "হৃদপিণ্ডের ব্লক",
